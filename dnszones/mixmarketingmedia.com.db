@@ -1,0 +1,26 @@
+; cPanel first:122.0.18 (update_time):1734349634 Cpanel::ZoneFile::VERSION:1.3 hostname:linux898.defaultserverdns.com latest:122.0.21
+; Zone file for mixmarketingmedia.com
+$TTL 14400
+mixmarketingmedia.com.	86400	IN	SOA	ns1.shivayhost.in.	shivayhost.gmail.com.	(
+						2024121601 ;Serial Number
+						3600 ;refresh
+						1800 ;retry
+						1209600 ;expire
+						86400	)
+mixmarketingmedia.com.	86400	IN	NS	ns1.shivayhost.in.
+mixmarketingmedia.com.	86400	IN	NS	ns2.shivayhost.in.
+mixmarketingmedia.com.	14400	IN	A	65.108.232.153
+mixmarketingmedia.com.	14400	IN	MX	0	mixmarketingmedia.com.
+mail	14400	IN	CNAME	mixmarketingmedia.com.
+www	14400	IN	CNAME	mixmarketingmedia.com.
+ftp	14400	IN	A	65.108.232.153
+mixmarketingmedia.com.	14400	IN	TXT	"v=spf1 +a +mx +ip4:65.108.232.153 ~all"
+webdisk	14400	IN	A	65.108.232.153
+cpanel	14400	IN	A	65.108.232.153
+whm	14400	IN	A	65.108.232.153
+cpcalendars	14400	IN	A	65.108.232.153
+webmail	14400	IN	A	65.108.232.153
+cpcontacts	14400	IN	A	65.108.232.153
+default._domainkey	14400	IN	TXT	"v=DKIM1\; k=rsa\; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArxINWNPcC0pFvY1B9QyZ6hUzDhWF2XLmpm1/HhlRnpGxct8nCtkBLtsgG8JcUvtoJ0D1r01ApG67S/q/NPIyRgsRj/vUzwiFnKNFNnZg71AYRKIUeuPqQgtZO4jnqK1bniqxkB+UQLmUr1sFS1padoOJSYDOZgbE6TE4mIHtjinyj4456Uf8PEdvNJYqgtp5k" "f96aFDB2V4WqleSHy+3H2zi55F7Q7LhYRLDhdi7xTCy1ft+hSxa0hQPm9yd8PWFVqefU+4pXIzlzx+G7a364ZCSe3Gbjkbe1/QlYCTZYwijomReMedEEsikRNMJJxxIVuJGs+LBan+w+fDhmX4ctwIDAQAB\;"
+_cpanel-dcv-test-record	14400	IN	TXT	"_cpanel-dcv-test-record=04N5p0pzDvcWK569GBK0gRIwWB0NrRtn53ggbSZn86bwIuhQEiXTTJvS35358LxD"
+_acme-challenge	14400	IN	TXT	"uNCjKLrd4vgXREAK4Vr3WMOLhEMuxpy1TbjQCmKH7ag"

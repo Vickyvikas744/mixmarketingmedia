@@ -1,0 +1,40 @@
+Return-Path: <mixmarke@linux898.defaultserverdns.com>
+Delivered-To: mixmarke@linux898.defaultserverdns.com
+Received: from linux898.defaultserverdns.com
+	by linux898.defaultserverdns.com with LMTP
+	id ENRXBcqNNWffrDUAGaDP+g
+	(envelope-from <mixmarke@linux898.defaultserverdns.com>)
+	for <mixmarke@linux898.defaultserverdns.com>; Thu, 14 Nov 2024 06:42:34 +0100
+Return-path: <mixmarke@linux898.defaultserverdns.com>
+Envelope-to: admin@mixmarketingmedia.com
+Delivery-date: Thu, 14 Nov 2024 06:42:34 +0100
+Received: from mixmarke by linux898.defaultserverdns.com with local (Exim 4.97.1)
+	(envelope-from <mixmarke@linux898.defaultserverdns.com>)
+	id 1tBSck-0000000FREe-0AHp
+	for admin@mixmarketingmedia.com;
+	Thu, 14 Nov 2024 06:42:34 +0100
+To: admin@mixmarketingmedia.com
+Subject: =?us-ascii?Q?[Mix_Marketing_Media]_Your_site_has_updated_to_?=
+ =?us-ascii?Q?WordPress_6.7?=
+X-PHP-Script: mixmarketingmedia.com/wp-cron.php for 65.108.232.153
+ X-PHP-Originating-Script: 1777:PHPMailer.php
+Date: Thu, 14 Nov 2024 05:42:33 +0000
+From: WordPress <wordpress@mixmarketingmedia.com>
+Message-ID: <eolzGQnfFlnKD52SQpLFy5XBDIIzrl4oxoNns0DCy5M@mixmarketingmedia.com>
+X-Mailer: PHPMailer 6.9.2 (https://github.com/PHPMailer/PHPMailer)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+
+Howdy! Your site at https://mixmarketingmedia.com has been updated automatically to WordPress 6.7.
+
+No further action is needed on your part. For more on version 6.7, see the About WordPress screen:
+https://mixmarketingmedia.com/wp-admin/about.php
+
+If you experience any issues or need support, the volunteers in the WordPress.org support forums may be able to help.
+https://wordpress.org/support/forums/
+
+You also have some plugins or themes with updates available. Update them now:
+https://mixmarketingmedia.com/wp-admin/
+
+The WordPress Team
+

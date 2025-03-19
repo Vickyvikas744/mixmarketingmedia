@@ -1,0 +1,18 @@
+--- 
+documentroot: /home/mixmarke/public_html
+group: mixmarke
+hascgi: 1
+homedir: /home/mixmarke
+ip: 65.108.232.153
+ipv6: ~
+owner: shivayhost
+phpopenbasedirprotect: ~
+port: 443
+secruleengineoff: ~
+serveradmin: webmaster@mixmarketingmedia.com
+serveralias: mail.mixmarketingmedia.com www.mixmarketingmedia.com
+servername: mixmarketingmedia.com
+ssl: 1
+usecanonicalname: 'Off'
+user: mixmarke
+userdirprotect: ''

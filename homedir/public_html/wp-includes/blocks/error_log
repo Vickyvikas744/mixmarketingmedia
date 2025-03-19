@@ -1,0 +1,12 @@
+[02-Nov-2024 10:28:23 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/mixmarke/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mixmarke/public_html/wp-includes/blocks/index.php on line 8
+[02-Nov-2024 14:02:08 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/mixmarke/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mixmarke/public_html/wp-includes/blocks/index.php on line 8
+[03-Nov-2024 23:19:22 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/mixmarke/public_html/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/mixmarke/public_html/wp-includes/blocks/index.php on line 8

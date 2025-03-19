@@ -1,0 +1,854 @@
+AWSTATS DATA FILE 7.8 (build 20200416)
+# If you remove this file, all statistics for date 202410 will be lost/reset.
+# Last config file used to build this data file was /home/mixmarke/tmp/awstats/awstats.mixmarketingmedia.com.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2018                
+POS_TIME 2693                
+POS_VISITOR 19669               
+POS_DAY 22661               
+POS_DOMAIN 3413                
+POS_LOGIN 3825                
+POS_ROBOT 3980                
+POS_WORMS 4536                
+POS_EMAILSENDER 4667                
+POS_EMAILRECEIVER 4810                
+POS_SESSION 23318               
+POS_SIDER 23525               
+POS_FILETYPES 4945                
+POS_DOWNLOADS 5199                
+POS_OS 5364                
+POS_BROWSER 5646                
+POS_SCREENSIZE 6737                
+POS_UNKNOWNREFERER 6811                
+POS_UNKNOWNREFERERBROWSER 7286                
+POS_ORIGIN 7506                
+POS_SEREFERRALS 7642                
+POS_PAGEREFS 7786                
+POS_SEARCHWORDS 7981                
+POS_KEYWORDS 8133                
+POS_MISC 2357                
+POS_ERRORS 8192                
+POS_CLUSTER 3681                
+POS_SIDER_404 8331                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20241101030713 9 1517 14095045849995
+FirstTime 20241001012009
+LastTime 20241031192801
+LastUpdate 20241101130844 9 0 8 0 0
+TotalVisits 219                 
+TotalUnique 77                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 82                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+TotalMisc 0 0 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 5 1703 25 30 51509
+1 13 14 2495 26 26 11048
+2 9 9 0 23 23 133559
+3 7 7 0 16 17 67176
+4 6 6 0 13 14 115845
+5 18 19 1703 33 34 20964
+6 9 25 720351 27 31 39892
+7 16 16 0 36 47 302387
+8 12 12 1703 306 307 8583649
+9 4 4 0 20 20 0
+10 13 36 758793 274 278 8102927
+11 8 10 23818 9 40 49191
+12 3 3 0 8 11 21175
+13 36 36 169538 32 33 60150
+14 10 10 12320 30 31 1349
+15 7 7 31847 11 11 9811
+16 12 12 14393 21 22 1349
+17 18 18 0 24 30 67872
+18 8 8 42286 5 6 179
+19 17 33 723757 28 31 21237
+20 13 13 1703 40 41 19803
+21 11 15 62789 140 142 4219952
+22 10 11 10943 29 32 302158
+23 14 14 5109 41 44 50517
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+us 240 298 2453537
+jp 11 15 56091
+cn 4 4 10876
+de 4 4 12320
+pl 4 4 21880
+gb 3 4 3406
+ru 2 2 0
+it 2 2 0
+in 2 2 19537
+es 1 1 0
+gr 1 1 0
+se 1 1 1703
+sc 1 1 0
+dk 1 1 1703
+au 1 1 0
+id 1 1 1703
+ch 0 1 2495
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 11
+no_user_agent 40 875360 20241029081152 0
+unknown 9 1329 20241028125044 9
+Googlebot/ 7 749 20241031225549 7
+MJ12bot/ 3 537 20241013060417 3
+(firefox/)([0-9]\.|[0-1][0]\.) 3 0 20241007100659 0
+facebookexternalhit/ 2 264 20241011190623 2
+Python\-urllib/ 1 179 20241022063938 1
+bot[\s_+:,\.\;\/\\-] 1 132 20241007211945 1
+Googlebot\-Mobile/ 1 0 20241018011646 0
+DotBot/ 1 179 20241018123340 1
+AhrefsBot/ 1 107 20241008145700 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+html 79 257683 0 0
+cgi 3 19511 0 0
+Unknown 1 1703 0 0
+txt 2 12942 0 0
+css 29 300559 0 0
+png 3 1531992 0 0
+svg 1 0 0 0
+xml 17 129812 0 0
+php 173 7636 0 0
+woff2 6 118992 0 0
+js 29 204421 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/wp-content/plugins/elementor/readme.txt 1 0 10695
+/wp-content/themes/digital-advertising-agency/readme.txt 1 0 2247
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 16
+android10 20 5
+macosx13 1 1
+win7 7 6
+linux 11 11
+win10 83 47
+macosx15 6 6
+linuxubuntu 2 2
+androidnougat 10 9
+winlong 1 1
+android 2 1
+sunos 1 0
+winnt 3 3
+winxp 1 1
+ios_iphone 22 16
+androidlollipop 1 1
+Unknown 172 169
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 52
+chrome70.0.3818.88 1 1
+chrome118.0.5993.80 1 1
+chrome73.0.3683.103 1 1
+chrome126.0.0.0 8 8
+chrome74.0.3729.169 2 2
+netscape4.8 1 0
+chrome58.0.1145.75 1 1
+chrome61.0.3163.100 1 0
+safari17.5 3 3
+opera12.16 1 0
+safari12.1.1 1 0
+mozilla 3 3
+chrome78.0.3904.108 20 20
+chrome124.0.0.0 1 0
+chrome71.0.3578.141 1 0
+chrome129.0.0.0 1 1
+firefox126.0 1 1
+chrome79.0.3345.88 1 1
+chrome11.0.696.71 2 2
+firefox95.0 8 8
+chrome118.0.0.0 2 2
+chrome71.0.3578.80 1 0
+chrome71.0.3542.0 1 1
+chrome242.02.8301.120 1 1
+msie6.0 1 1
+chrome121.0.0.0 1 1
+chrome78.0.3904.62 1 1
+chrome117.0.5938.132 20 4
+safari12.0 1 0
+chrome81.0.4044.129 1 1
+firefox115.0 1 1
+safari13.0.3 15 11
+firefox102.0 19 3
+chrome66.0.3359.181 5 5
+chrome106.0.0.0 2 2
+chrome75.0.1287.88 1 1
+Unknown 167 165
+safari17.2 1 1
+msie9.0 1 1
+safari17.3.1 1 1
+netscape5.0 1 1
+chrome127.0.6533.99 1 1
+safari7.2.1.0 1 0
+chrome73.0.3683.90 1 1
+chrome120.0.0.0 19 4
+firefox62.0 1 1
+safari14.0.3 1 1
+safari17.1.2 1 1
+chrome60.0.3112.107 9 9
+chrome127.0.0.0 4 3
+chrome91.0.4472.124 1 0
+chrome94.0.4606.81 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+WordPress/6.6.2;_https://mixmarketingmedia.com 20241031192801
+Mozilla/5.0_(PlayBook;_U;_RIM_Tablet_OS_2.1.0;_en-US)_AppleWebKit/536.2__(KHTML_like_Gecko)_Version/7.2.1.0_Safari/536.2_ 20241007100659
+Mozilla/5.0_(compatible;_CensysInspect/1.1;__https://about.censys.io/) 20241013031943
+python-requests/2.23.0 20241011225611
+Mozilla/5.0 20241003205755
+python-requests/2.31.0 20241009111416
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+python-requests/2.31.0 20241009111416
+WordPress/6.6.2;_https://mixmarketingmedia.com 20241031192801
+python-requests/2.23.0 20241011225611
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 265 282
+From1 2 2
+From2 0 0
+From3 1 1
+From4 11 58
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://linux898.defaultserverdns.com:2087 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 5
+409 2 2416
+403 15 19313
+302 57 2313
+404 613 21350821
+301 540 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 354
+/wp-includes/ID3/plugins.php 1 -
+/wp-admin/user/themes.php 1 -
+/wp-admin/images/xmrlpc.php 3 -
+/wp-content/file.php 1 -
+/wp-includes/images/about.php 3 -
+/wp/abe.php 1 -
+/wp-content/themes/sahifa/ 1 mixmarketingmedia.com
+/wp-includes/fonts/wp-login.php 1 -
+/wp-info.php 2 -
+/images/cloud.php 3 -
+/wp-admin/css/wp-login.php 1 -
+/wp-includes.bak/html-api/about.php 3 -
+/wp-content/updraft/themes.php 1 -
+/wp-admin/images/plugins.php 1 -
+/wp-includes/Text/about.php 3 -
+/wp-admin/js/widgets/xmrlpc.php 3 -
+/.well-known/security.txt 1 http://www.mixmarketingmedia.com/.well-known/security.txt
+/.well-known/acme-challenge/makeasmtp.php 1 -
+/wp/1sbeqh0h.php 1 -
+/wp-includes/php-compat/eew.php 1 -
+/alfanew.php 3 -
+/about-header.png 1 mixmarketingmedia.com
+/readme.php 1 -
+/makeasmtp.php 1 -
+/about.php7 3 -
+/filemanager/dialog.php 1 -
+/wp-includes/pomo/yellow.php 1 -
+/.well-known/pki-validation/about.php 3 -
+/wp-includes/Text/Diff/Engine.php 1 -
+/file.php 1 -
+/admin/upload/css.php 1 -
+/wp-includes/ID3/51Sge/ 1 -
+/wp-includes/images/css.php 1 -
+/wp-links.php 2 -
+/wp-content/upgrade/function.php 1 -
+/wp-includes/about.php 3 -
+/wp-includes/fonts/about.php 1 -
+/wp-includes/customize/plugins.php 1 -
+/link.php 1 -
+/wp-includes/js/tinymce/about.php 1 -
+/wp-content/upgrade/wp-login.php 1 -
+/wp-configs.php 1 -
+/wp-content/uploads/wpr-addons/forms/RxRzhwix.php 1 -
+/wp-content/repeater.php 3 -
+/cgi-bin/xmrlpc.php 4 -
+/ws.php7 3 -
+/wp-content/updraft/about.php 3 -
+/wp-content/uploads/wpr-addons/forms/b1ack.php 1 -
+/wp-includes/js/tinymce/skins/lightgray/about.php7 1 -
+/wp-consar.php 3 -
+/wp-includes/js/tinymce/plugins/compat3x/css/about.php 1 -
+/mah/function.php 1 -
+/wp-includes/mah.php 3 -
+/wp-emoji-release.min.js 3 -
+/wp-includes/block-patterns/about.php 3 -
+/chosen.php 1 -
+/wp-admin/css/colors/xmrlpc.php 3 -
+/wp-content/plugins/linkpreview/db.php 2 -
+/wp-includes/vjgtd8LW.php 1 -
+/wp/wp-admin/install.php 1 -
+/libraries/legacy/updates.php 3 -
+/admin-post.php 3 -
+/.well-known/acme-challenge/xmrlpc.php 3 -
+/wp-admin/images/file.php 1 -
+/wp-content/themes/aahana/json.php 2 -
+/wp-admin/radio.php 1 -
+/wp-content/plugins/not/includes/about.php 2 -
+/cgi-bin/file.php 1 -
+/wp-content/cong.php 1 -
+/css.php 1 -
+/wp-includes/rx.php 1 -
+/wp-content/radio.php 1 -
+/wp-content/upgrade-temp-backup/about.php 3 -
+/wp-admin/css/license.php 1 -
+/wp-content/themes/sketch/404.php 1 -
+/wp-json/acf/v3/options/a 1 -
+/wp-includes/test.php 1 -
+/wp-includes/widgets/about.php 3 -
+/cgi-bin/plugins.php 1 -
+/wp-includes/wp-class.php 1 -
+/wp-admin/xmrlpc.php 3 -
+/alfanew2.php7 3 -
+/wp-content/plugins/seoo/wsoyanz.php 3 -
+/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/Core32.php 1 -
+/wp-includes/css/dist/block-library/alfa-rex.php 1 -
+/ads.txt 3 http://www.mixmarketingmedia.com/ads.txt
+/security.txt 1 http://www.mixmarketingmedia.com/security.txt
+/wp-content/x/eew.php 1 -
+/wp-content/upgrade/plugins.php 1 -
+/as.php 1 -
+/cgi-bin/about.php 3 -
+/wp-includes/images/crystal/variant_xor.php 1 -
+/wp-includes/ID3/module.audio-video.matroska-meta.php 1 -
+/wp-admin/license.php 1 -
+/wp-includes/SimplePie/plugins.php 2 -
+/media.php 1 -
+/wp-content/banners/about.php 3 -
+/wp-includes/ID3/about.php 3 -
+/cache-compat.php 3 -
+/wordpress/wp-admin/setup-config.php 2 -
+/bak.php 1 -
+/autoload_classmap.php 1 -
+/wp-includes/pomo/about.php 3 -
+/wp-content/uploads/wpr-addons/forms/elp.php 1 -
+/.well-known/acme-challenge/cloud.php 4 -
+/libraries/phpmailer/updates.php 3 -
+/wp-admin/includes/about.php 3 -
+/log.php 1 -
+/wp-content/plugins/webappick-product-feed-for-woocommerce/archlve.php 1 -
+/wp-admin/dropdown.php 3 -
+/wp-content/plugins/dropdown.php 1 -
+/lufix.php 1 -
+/wp-pano.php 1 -
+/wp-includes/themes.php 1 -
+/wp-content/themes/wp-apxupx.php 1 -
+/wp-includes/pomo/autoload_classmap.php 1 -
+/wp-content/plugins/upload-max-file-size/wp-config-sample.php 1 -
+/avaa.php 3 -
+/wp-admin/includes/cloud.php 3 -
+/wp-content/themes/about.php 3 -
+/wp-includes/fonts/old.php 1 -
+/libraries/vendor/updates.php 3 -
+/wp.php 2 -
+/wp-content/autoload_classmap.php 1 -
+/text.php 1 -
+/images/plugins.php 1 -
+/wp-content/plugins/Cache/Cache.php 3 -
+/berlin.php 2 -
+/content.php 2 -
+/images/xmrlpc.php 3 -
+/.tmb/plugins.php 1 -
+/wp-admin/css/colors/coffee/xmrlpc.php 3 -
+/wp-includes/css/about.php 1 -
+/.well-known/radio.php 2 -
+/function.php 1 -
+/wp-includes/css/str_replace.php 1 -
+/cgi-bin/404.php 1 -
+/wp-includes/wp-load.php 1 -
+/cong.php 1 -
+/.well-known/admin.php 1 -
+/wp-content/backups-dup-pro/ 1 mixmarketingmedia.com
+/wp-includes/rest-api/ZVQCc/ 1 -
+/wp-content/plugins/Wesson/mlor.php 1 -
+/cgi-bin/radio.php 1 -
+/alfa-rex2.php7 3 -
+/.well-known/pki-validation/cloud.php 3 -
+/cgi-bin/themes.php 1 -
+/wp-includes/SimplePie/Cache/contents.php 1 -
+/wp-content/uploads/autoload_classmap.php 1 -
+/.well-known/pki-validation/wp-config.php 1 -
+/wp-includes/agTOMuSfW6r.php 1 -
+/ 11 http://mixmarketingmedia.com///
+/wp-content/blogs.dir/about.php 3 -
+/wp-includes/wp-widgets.php 1 -
+/wp-content/about.php 3 -
+/wsoyanz.php 3 -
+/wp-content/themes/admin.php 1 -
+/wp-content/plugins/autodescription/singIe.php 1 -
+/themes.php 1 -
+/wp-includes/repeater.php 3 -
+/.well-known/pki-validation/plugins.php 1 -
+/wp-content/upgrade/about.php 1 -
+/wp-content/uploads/chosen.php 1 -
+/.well-known/cloud.php 1 -
+/ini.php 1 -
+/wp-admin/css/plugins.php 1 -
+/about/function.php 2 -
+/humans.txt 1 http://www.mixmarketingmedia.com/humans.txt
+/dropdown.php 3 -
+/wp-includes/wp-activate.php 1 -
+/wp/wp-admin/wp-setup.php 1 -
+/wp-admin/images/about.php 3 -
+/app-ads.txt 2 -
+/wp-content/plugins/mystickyelements/connents.php 1 -
+/wp-content/uploads/2018/03/ab.php 1 -
+/.well-known/wp-login.php 1 -
+/test.php 1 -
+/wp-includes/Cez57/ 1 -
+/wp-includes/index.php.suspected 1 -
+/wp-admin/js/widgets/about.php7 3 -
+/wp-includes/IXR/about.php 3 -
+/doc/function.php 1 -
+/wp-includes/SimplePie/about.php 3 -
+/wp-includes/blocks/table/int/tmpl/ 1 -
+/ebs.php7 3 -
+/wp-includes/wp-login.php 1 -
+/wp-content/uploads/2014/06/wp-login.php 1 -
+/wp-includes/js/about.php 1 -
+/.well-known/pki-validation/xmrlpc.php 3 -
+/wp-includes/luuf.php 1 -
+/.well-known/dropdown.php 1 -
+/wp-includes/assets/XeRzQ.php 1 -
+/wp-content/themes/pridmag/db.php 2 -
+/wp-admin/maint/plugins.php 1 -
+/.well-known/acme-challenge/radio.php 1 -
+/wp-includes/makeasmtp.php 1 -
+/wp-admin/autoload_classmap.php 1 -
+/cgi-bin/index.php 1 -
+/wp-includes/random_compat/bala.php 1 -
+/wp-content/uploads/js_composer/luuf.php 1 -
+/404.php 1 -
+/xmrlpc.php 3 -
+/wp-content/ai1wm-backups/ 1 mixmarketingmedia.com
+/wp-includes/Text/Diff/Engine/ftp_rmdir.php 1 -
+/about.php 3 -
+/wp-content/plugins/mystickyelements/singIe.php 1 -
+/css/xmrlpc.php 3 -
+/wp-content/x/ 1 -
+/css/plugins.php 1 -
+/wp-admin/maint/maint/ajax-actions.php 3 -
+/wp-includes/js/e3B6W/ 1 -
+/wp-admin/css/colors/coffee/cloud.php 3 -
+/wp-content/themes/themes.php 1 -
+/wp-confiq.php 2 -
+/.well-known/acme-challenge/autoload_classmap.php 1 -
+/updates.php 3 -
+/wp-content/plugins/seoo/wsoyanz1.php 3 -
+/wp-head.php 2 -
+/wp-admin/js/about.php 4 -
+/wp-admin/maint/wp-act.php 1 -
+/wp-content/themes/plugins.php 1 -
+/wp-includes/IXR/plugins.php 1 -
+/mah.php 1 -
+/upload.php 1 -
+/ajax-actions.php 3 -
+/alfa-rex.php7 3 -
+/wp-ok.php 1 -
+/wp-content/dropdown.php 1 -
+/wp-includes/SimplePie/HdGGN/ 1 -
+/wp-content/plugins/about.php 2 -
+/ova-tools.php 1 -
+/wp-includes/404.php 1 -
+/simple.php 1 -
+/wp-includes/eew.php 1 -
+/.well-known/about.php 3 -
+/wp-includes/xBrain.php 1 -
+/radio.php 1 -
+/wp-admin/wp-signup.php 1 -
+/wp-includes/Text/chosen.php 1 -
+/wp-content/themes/404.php 1 -
+/wp-includes/Text/Diff/Engine/alfa-rex.php 1 -
+/img/about.php 3 -
+/wp-includes/pomo/plugins.php 1 -
+/.well-known/pki-validation/afnew.php 1 -
+/wp-admin/css/colors/blue/plugins.php 1 -
+/css/cloud.php 3 -
+/wp-admin/images/cloud.php 3 -
+/wp-crom.php 1 -
+/wp-admin/css/colors/cloud.php 3 -
+/wp-includes/customize/Dj1Gk/ 1 -
+/wp-admin/images/wp-login.php 1 -
+/.well-known/pki-validation/index.php 1 -
+/cloud.php 3 -
+/wp-content/languages/about.php 3 -
+/wp-admin/cloud.php 3 -
+/.well-known/makeasmtp.php 1 -
+/files/ 1 -
+/admin.php 3 -
+/wp-content/uploads/BbUMY/ 1 -
+/wp-content/uploads/2016/03/wp-admin-block.php 1 -
+/wp-content/languages/plugins.php 1 -
+/wp-includes/pomo/wp-login.php 1 -
+/wp-content/xBrain.php 1 -
+/sellers.json 2 -
+/.well-known/pki-validation/radio.php 1 -
+/wp-includes/function.php 1 -
+/wp-content/themes/seotheme/db.php 2 -
+/.well-known/acme-challenge/admin.php 1 -
+/wp-includes/Requests/Text/admin.php 3 -
+/.env 2 -
+/wp-includes/SimplePie/wp-login.php 2 -
+/alfanew.php7 3 -
+/img/cloud.php 3 -
+/wp-content/plugins/awesome-coming-soon/come.php 2 -
+/wp-includes/pomo/user-new.php 1 -
+/wp-content/plugins/wp-conflg.php 2 -
+/wp-content/plugins/seoplugins/db.php 2 -
+/wp-includes/random_compat/plugins.php 1 -
+/wp-includes/buy.php 1 -
+/wp-admin/includes/nav.php 2 -
+/wp-includes/cloud.php 1 -
+/wp-admin/user/plugins.php 1 -
+/.well-known/file.php 1 -
+/wp-content/uploads/suit5y.php 1 -
+/wp-content/plugins/simple/simple.php 2 -
+/wp-content/gallery/about.php 3 -
+/wp-includes/defaults.php 2 -
+/wp-admin/css/colors/blue/xmrlpc.php 3 -
+/wp-includes/style-engine/about.php 3 -
+/wp-includes/certificates/plugins.php 2 -
+/wp-includes/ID3/wp-login.php 1 -
+/byp.php 1 -
+/geju.php 1 -
+/wp-content/plugins/disable-search/functlons.php 1 -
+/wp-admin/ajax-actions.php 3 -
+/wp-includes/template-wploader.php 1 -
+/wp-includes/css/loco.php 1 -
+/wp-admin/wp-login.php 1 -
+/wp-admin/network/xmrlpc.php 3 -
+/.well-known/wp-load.php 1 -
+/wp-includes/gCdfg/ 1 -
+/wp-includes/fonts/plugins.php 2 -
+/wp-content/themes.php 1 -
+/wp-admin/network/cloud.php 3 -
+/wp-admin/css/colors/blue/cloud.php 3 -
+/wp-includes/admin.php 2 -
+/yanz.php 3 -
+/cgi-bin/wp-login.php 1 -
+/wp-content/cloud.php 1 -
+/wp-includes/PHPMailer/about.php 1 -
+/wp-includes/PHPMailer/admin.php 1 -
+/wp-includes/rest-api/about.php 3 -
+/images/about.php 3 -
+/wp-content/plugins/seoplugins/mar.php 3 -
+/wp-admin/file.php 1 -
+/403.php 2 -
+/wp-tinymce.php 2 -
+/wp-admin/user/cloud.php 3 -
+/wp-admin/js/widgets/cloud.php 3 -
+/wp-includes/system_log.php 1 -
+/wp-content/updates.php 3 -
+/wp-content/themes/seotheme/mar.php 3 -
+/adminfuns.php7 3 -
+/wp-includes/customize/about.php 3 -
+/repeater.php 3 -
+/contact.php 1 -
+/wp-admin/user/xmrlpc.php 3 -
+/wp-admin/includes/plugins.php 1 -
+/wp-includes/blocks/about.php 3 -
+/wp-includes/blocks/xBrain.php 1 -
+/wp-includes/Requests/about.php 3 -
+/img/xmrlpc.php 3 -
+/wp-content/uploads/themes.php 1 -
+/wp-includes/css/dist/components/admin.php 1 -
+/wp-admin/includes/xmrlpc.php 3 -
+/sitemap.xml 1 -
+/wp-includes/js/install.php 1 -
+/wp-content/plugins/wp-theme-editor/include.php 2 -
+/config.json 1 -
+/wp-crons.php 1 -
+/wp-p.php7 3 -
+/wp-includes/PHPMailer/autoload_classmap.php 1 -
+/wp-includes/bak.php 1 -
+/wp-admin/css/about.php 3 -
+/default.php 1 -
+/wp-includes/Requests/Utility/sys.php 1 -
+/css/ 1 -
+/wp-content/plugins/pwnd-1/pwnd.php 1 -
+/cgi-bin/cloud.php 3 -
+/.well-known/acme-challenge/plugins.php 1 -
+/wp-admin/404.php 1 -
+/install/function.php 1 -
+/wp-admin/repeater.php 3 -
+/wp-trackback.php 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 82
+75.119.157.114 91 91 0 20241013230038
+65.108.232.153 73 73 0 20241031192801
+174.138.21.94 20 20 152720 20241011130452
+35.158.92.94 5 20 737041 20241001102704
+5.181.188.151 4 4 12320 20241018142337
+104.236.43.220 3 19 720351 20241001065340
+35.188.76.104 3 3 0 20241015172404
+205.169.39.19 3 19 720351 20241001195233
+195.3.223.108 3 3 21880 20241002164325
+123.60.68.42 3 3 0 20241010121031
+84.17.42.26 2 2 0 20241008012752
+18.219.43.50 2 10 0 20241007100700
+20.98.104.241 2 2 28406 20241027160558
+146.190.109.47 2 2 1703 20241004082317
+34.106.61.185 1 1 0 20241019045458
+165.232.113.233 1 1 0 20241003182105
+54.91.107.246 1 1 42286 20241001183842
+43.130.37.62 1 1 0 20241004054928
+161.129.70.221 1 1 0 20241005130721
+205.169.39.24 1 1 0 20241013195944
+162.19.77.8 1 1 1703 20241016135501
+88.99.26.177 1 1 0 20241016134658
+199.45.155.96 1 1 0 20241001031914
+167.71.76.90 1 1 0 20241008114044
+143.198.58.205 1 1 0 20241019150047
+51.195.106.112 1 1 1703 20241013203323
+31.220.75.237 1 1 0 20241005130821
+152.58.98.54 1 1 0 20241016134605
+128.1.43.245 0 2 12942 
+167.94.146.55 1 1 0 20241007062927
+43.131.48.214 1 1 4239 20241011132812
+205.169.39.7 1 1 0 20241001102038
+15.204.142.133 1 1 0 20241002083138
+206.189.195.85 1 1 0 20241004070900
+159.203.78.20 1 1 0 20241006111633
+52.26.161.111 1 1 0 20241005153257
+139.59.84.133 1 1 0 20241009202131
+128.199.128.185 1 1 1703 20241030191943
+51.195.88.32 0 1 0 
+209.38.4.240 1 1 10876 20241001102351
+43.143.60.88 1 1 0 20241013072822
+137.59.110.109 1 1 1703 20241028005430
+165.231.253.216 1 1 0 20241005130721
+149.50.96.82 1 1 0 20241013221727
+209.38.64.127 1 1 0 20241018115007
+35.91.69.201 1 1 0 20241004164750
+54.200.163.152 1 1 0 20241010173448
+102.129.40.35 1 1 1703 20241006230550
+34.223.238.240 1 1 0 20241003172747
+167.94.145.108 1 1 0 20241013031943
+43.133.77.230 1 1 0 20241008204624
+43.163.6.35 1 1 0 20241003085233
+178.128.103.14 1 1 0 20241011213628
+38.95.13.139 1 1 10876 20241001102351
+43.133.66.151 1 1 0 20241001081559
+170.106.197.109 1 1 10876 20241001111823
+45.9.75.135 1 1 0 20241019071557
+162.219.248.151 1 1 1703 20241022230722
+204.15.64.226 1 1 0 20241024011232
+188.143.169.41 1 1 0 20241011074743
+54.38.112.213 1 1 0 20241003141830
+43.130.16.140 0 3 22109 
+43.130.40.120 1 1 0 20241001012009
+43.153.122.30 1 2 18867 20241001213112
+185.220.100.253 1 1 0 20241005130721
+193.34.213.138 1 1 0 20241005155538
+205.169.39.13 1 1 0 20241001193652
+159.203.38.3 1 1 0 20241001182849
+43.130.7.211 1 1 0 20241003205321
+43.156.109.53 1 1 0 20241002162801
+103.138.218.221 1 1 1703 20241019051741
+86.48.7.114 1 1 1703 20241011191124
+94.103.125.154 0 1 2495 
+148.72.207.110 1 1 1703 20241005234804
+137.184.35.6 1 1 0 20241013202007
+34.223.1.32 1 1 0 20241009174630
+43.163.0.99 1 1 10876 20241001212835
+35.205.159.124 1 1 0 20241011225611
+3.90.143.141 1 1 0 20241003172922
+42.83.147.53 1 1 10876 20241001133817
+45.127.177.194 1 1 17834 20241024155557
+174.138.55.207 0 1 0 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20241001 31 82 2337265 23
+20241002 7 7 0 7
+20241003 12 12 0 12
+20241004 12 12 1703 10
+20241005 16 16 1703 13
+20241006 9 9 1703 9
+20241007 11 19 0 10
+20241008 11 11 0 10
+20241009 10 13 12942 7
+20241010 10 10 0 8
+20241011 30 30 158662 10
+20241012 8 8 0 6
+20241013 17 17 1703 14
+20241015 3 3 0 1
+20241016 6 6 1703 6
+20241017 8 8 0 7
+20241018 13 13 12320 8
+20241019 11 11 1703 11
+20241020 7 8 0 6
+20241021 4 4 0 3
+20241022 2 2 1703 2
+20241023 6 6 0 4
+20241024 7 7 17834 6
+20241025 7 7 0 6
+20241026 6 6 0 6
+20241027 3 3 28406 2
+20241028 4 4 1703 4
+20241029 0 1 2495 0
+20241030 5 5 1703 5
+20241031 3 3 0 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 194
+15mn-30mn 9
+2mn-5mn 1
+30mn-1h 9
+1h+ 3
+30s-2mn 1
+5mn-15mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 40
+/wp-cron.php 164 0 139 139
+/ 61 179750 56 53
+//wp-json/wp/v2/users/ 9 15327 9 9
+/cgi-sys/suspendedpage.cgi 3 19511 2 1
+/wp-content/fonts/plus-jakarta-sans/LDIoaomQNQcsA88c7O9yZ4KMCoOg4Ko20yw.woff2 3 82332 0 1
+/wp-content/themes/digital-advertising-agency/webfonts/fa-regular-400.woff2 3 36660 0 2
+/wp-includes/ 3 30001 3 2
+/cgi-sys/suspendedpage.cgi/site/wp-includes/wlwmanifest.xml 1 7636 0 0
+/cgi-sys/suspendedpage.cgi/wp2/wp-includes/wlwmanifest.xml 1 7636 0 0
+/cgi-sys/suspendedpage.cgi/cms/wp-includes/wlwmanifest.xml 1 7636 0 0
+/cgi-sys/suspendedpage.cgi/sito/wp-includes/wlwmanifest.xml 1 7636 0 1
+/cgi-sys/suspendedpage.cgi/blog/wp-includes/wlwmanifest.xml 1 7636 0 0
+/wp-login.php 1 0 1 1
+/cgi-sys/suspendedpage.cgi/shop/wp-includes/wlwmanifest.xml 1 7636 0 0
+/cgi-sys/suspendedpage.cgi/wordpress/wp-includes/wlwmanifest.xml 1 7636 0 0
+/wp-includes/html-api/ 1 1418 0 0
+/cgi-sys/suspendedpage.cgi/wp/wp-includes/wlwmanifest.xml 1 7636 0 0
+/cgi-sys/suspendedpage.cgi/2019/wp-includes/wlwmanifest.xml 1 7636 0 0
+/cgi-sys/suspendedpage.cgi/2018/wp-includes/wlwmanifest.xml 1 7636 0 0
+/cgi-sys/suspendedpage.cgi/news/wp-includes/wlwmanifest.xml 1 7636 0 0
+/wp-content/backups-dup-lite/index.php 1 0 1 1
+/wp-includes/index.php 1 0 1 1
+/contact-us/ 1 14013 1 0
+/wp-content/plugins/init-help/init.php 1 0 1 1
+/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/Core32.php 1 0 1 1
+/wp-json/wp/v2/users 1 1703 1 1
+/cgi-sys/suspendedpage.cgi/wp1/wp-includes/wlwmanifest.xml 1 7636 0 0
+/about-us/ 1 14393 0 1
+/cgi-sys/suspendedpage.cgi/web/wp-includes/wlwmanifest.xml 1 7636 0 0
+/cgi-sys/suspendedpage.cgi/media/wp-includes/wlwmanifest.xml 1 7636 0 0
+/cgi-sys/suspendedpage.cgi/xmlrpc.php 1 7636 0 0
+/wp-includes/ID3/ 1 1512 0 0
+/index.php 1 0 1 1
+//mixmarketingmedia.com/xmlrpc.php 1 0 1 0
+/admin-ajax.php 1 0 0 1
+/cgi-sys/suspendedpage.cgi/test/wp-includes/wlwmanifest.xml 1 7636 0 0
+/wp-includes/IXR/ 1 1269 0 1
+/cgi-sys/suspendedpage.cgi/website/wp-includes/wlwmanifest.xml 1 7636 0 0
+/cgi-sys/suspendedpage.cgi/wp-includes/wlwmanifest.xml 1 7636 0 0
+/~mixmarke/ 1 0 1 1
+END_SIDER

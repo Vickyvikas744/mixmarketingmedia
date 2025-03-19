@@ -1,0 +1,46 @@
+Return-Path: <mixmarke@srv7.qiucksolution.com>
+Delivered-To: mixmarke@srv7.qiucksolution.com
+Received: from srv7.qiucksolution.com
+	by srv7.qiucksolution.com with LMTP
+	id zDFYNF8f5WbSJSgASHLS8Q
+	(envelope-from <mixmarke@srv7.qiucksolution.com>)
+	for <mixmarke@srv7.qiucksolution.com>; Sat, 14 Sep 2024 11:00:07 +0530
+Return-path: <mixmarke@srv7.qiucksolution.com>
+Envelope-to: admin@mixmarketingmedia.com
+Delivery-date: Sat, 14 Sep 2024 11:00:07 +0530
+Received: from mixmarke by srv7.qiucksolution.com with local (Exim 4.97.1)
+	(envelope-from <mixmarke@srv7.qiucksolution.com>)
+	id 1spLMF-0000000B2TK-35vb
+	for admin@mixmarketingmedia.com;
+	Sat, 14 Sep 2024 11:00:07 +0530
+To: admin@mixmarketingmedia.com
+Subject: Ninja Forms Submission
+X-PHP-Script: mixmarketingmedia.com/wp-admin/admin-ajax.php for 152.59.72.138
+X-PHP-Filename: /home/mixmarke/public_html/wp-admin/admin-ajax.php REMOTE_ADDR: 152.59.72.138
+Date: Sat, 14 Sep 2024 05:30:07 +0000
+From: My Blog <admin@mixmarketingmedia.com>
+Message-ID: <CqAX3dKi2juV6BrqdQQXQiZAozYHCF8ec6a27Kx9wMU@mixmarketingmedia.com>
+X-Mailer: PHPMailer 6.9.1 (https://github.com/PHPMailer/PHPMailer)
+X-Ninja-Forms: ninja-forms
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+
+<table>
+<tr>
+<td valign="top">Name:</td>
+<td>Zaheen</td>
+</tr>
+<tr>
+<td valign="top">Phone:</td>
+<td>7905385075</td>
+</tr>
+<tr>
+<td valign="top">City:</td>
+<td>Noida</td>
+</tr>
+<tr>
+<td valign="top">Email:</td>
+<td>haiderzaheen14@gmail.com</td>
+</tr>
+</table>
+
